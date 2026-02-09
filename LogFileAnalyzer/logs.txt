@@ -1,0 +1,8 @@
+INFO Server started
+INFO User logged in
+ERROR Database connection failed
+WARN Disk space low
+INFO Request processed
+ERROR Timeout occurred
+ERROR Invalid credentials
+WARN Memory usage high
